@@ -1,0 +1,34 @@
+.wrapper {
+    padding: 60px;
+    font-family: "Aleo";
+}
+
+header {
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.section-top {
+    background-color: lightcoral;
+}
+
+.img-top {
+    width: 100%;
+}
+
+.orange-box {
+    padding: 10px;
+}
+
+.section-middle {
+    background-color: lightblue;
+}
+
+.card {
+    background-color: rgb(175, 175, 175);
+}
+
+.section-bottom {
+    background-color: lightgreen;
+}
