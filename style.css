@@ -1,20 +1,30 @@
 .wrapper {
-    /* padding: 60px; */
     font-family: "Aleo";
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
     font-size: 30px;
     font-weight: bolder;
+    text-align: left;
 }
 
 .section-top {
-    background-color: #f0911a;
+    background-color: #ffffff;
 }
 
 h1 {
     margin: 0;
     font-size: 50px;
+}
+
+h2 {
+    font-size: 33px;
+    border-bottom: 1px solid #e2e2e2;
+    padding: 5px 10px 25px 10px;
 }
 
 .consultation {
@@ -24,7 +34,7 @@ h1 {
 }
 
 .mobile {
-    color: white;
+    color: #ffffff;
 }
 
 .img-top {
@@ -32,17 +42,41 @@ h1 {
 }
 
 .orange-box {
-    padding: 10px;
+    padding: 15px;
+    text-align: left;
+    background-color: #f0911a;
 }
 
 .section-middle {
-    background-color: lightblue;
+    background-color: #ffffff;
 }
 
 .card {
-    background-color: rgb(175, 175, 175);
+    background-color: #ffffff;
+    border-bottom: 1px solid #e2e2e2;
+    margin: 20px;
 }
 
 .section-bottom {
-    background-color: lightgreen;
+    background-color: #eaeaea;
+    padding: 10px;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+}
+
+span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-right {
+    display: flex;
+    flex-direction: column;
 }
