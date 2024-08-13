@@ -1,11 +1,10 @@
 .wrapper {
-    padding: 60px;
+    /* padding: 60px; */
     font-family: "Aleo";
 }
 
 header {
-    background-color: aquamarine;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bolder;
 }
 
@@ -15,14 +14,17 @@ header {
 
 h1 {
     margin: 0;
+    font-size: 50px;
 }
 
 .consultation {
     margin: 0;
+    font-size: 27px;
+    font-weight: bold;
 }
 
 .mobile {
-    color: #fff773;
+    color: white;
 }
 
 .img-top {
