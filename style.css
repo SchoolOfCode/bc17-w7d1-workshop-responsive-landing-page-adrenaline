@@ -10,7 +10,19 @@ header {
 }
 
 .section-top {
-    background-color: lightcoral;
+    background-color: #f0911a;
+}
+
+h1 {
+    margin: 0;
+}
+
+.consultation {
+    margin: 0;
+}
+
+.mobile {
+    color: #fff773;
 }
 
 .img-top {
